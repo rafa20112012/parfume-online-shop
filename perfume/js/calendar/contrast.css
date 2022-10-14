@@ -1,0 +1,46 @@
+
+.CalHead {cursor:default; text-align:center; border-bottom:1px solid #808080;}
+
+.DoWAnchor {text-decoration:none; font:8.5pt verdana; color:black;}
+
+.CalCol {}
+
+.CalCell {cursor:pointer; text-align:center;}
+
+.CellAnchor {text-decoration:none; font:bold 7pt verdana;}
+
+
+.WeekHead {cursor:default; text-align:center; font:8.5pt verdana; color:black;}
+
+.WeekCol {cursor:default; text-align:center;}
+
+.WeekAnchor {text-decoration:none; font:8pt verdana; color:black;}
+
+.MonthNav {cursor:pointer; vertical-align:baseline;}
+A.MonthNav:hover {color:yellow}
+A.MonthNav:active {color:red}
+
+.CalTop {text-align:center;}
+.CalMiddle {}
+.CalBottom {text-align:center;}
+
+.CalTitle {text-align:center; font:7.5pt verdana; cursor:default; color:white; background-color:gray; border:1px solid black; width:68%;}
+
+.FreeDiv {border:1px solid #808080;}
+
+#outerTable {border:2px solid black;}
+
+#innerDiv {}
+
+.BottomAnchor {font:8pt arial; color:black;}
+A.BottomAnchor:hover {color:orange;}
+A.BottomAnchor:active {color:red;}
+.BottomDiv {border-top:1px solid #696969; border-top-width:1px; height:16px;}
+
+.PopAnchor {text-decoration:none; color:white;}
+A.PopAnchor:hover {color:yellow;}
+A.PopAnchor:active {color:red;}
+.PopMenu {background:white; text-align:center; cursor:pointer;}
+.PopMenuItem {text-decoration:none; text-align:center; font:8pt arial; color:black;}
+
+.YearBox {border:0px solid; height:12px; text-align:center; font:7.5pt verdana; color:black; background-color:white;}

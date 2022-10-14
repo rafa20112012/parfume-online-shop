@@ -1,0 +1,27 @@
+#FF9000;  portocaliu inchis- FF6000
+
+#66CC66  verde inchis
+
+
+
+background: #D98303;#FFCC80
+
+
+#FFB84D;
+
+
+#D98303;
+
+
+
+#maincontent {
+	background: #FF6000; 
+	vertical-align: top; 
+	padding-top: 10px;
+
+
+
+#D9F2D9;
+
+
+#008CBA 

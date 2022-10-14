@@ -1,0 +1,138 @@
+.specscateg {
+	font-family: Tahoma, Verdana, Arial; 
+	font-size: 8pt; 
+	font-weight: bold;
+	color: #009763;
+	padding-left: 8px;
+}
+
+.specssubcateg {
+	font-family: Tahoma, Verdana, Arial; 
+	font-size: 8pt; 
+	font-weight: bold;
+	color: #7D7464;
+	padding-left: 5px;
+}
+
+.specssubcategdesc {
+	font-family: Tahoma, Verdana, Arial; 
+	font-size: 8pt; 
+	color: #000000;
+}
+
+.modelspecs {
+	font-family: Tahoma, Verdana, Arial; 
+	font-size: 9pt; 
+	color: #000000;
+}
+
+a.genLink {
+	text-decoration: none; 
+  font-family: Tahoma, Verdana; 
+	font-size: 8pt; 
+	color: #FFFFFF;
+	background-color: #006699;
+	font-weight: bold;
+	padding: 4px;
+}
+
+a.genLink:hover {
+	padding: 4px;
+	color: #006699;
+	background-color: #009763;
+	text-decoration: none;
+	border: 1px solid #006699;
+}
+
+a.genLinkReverse {
+	text-decoration: none; 
+  font-family: Tahoma, Verdana; 
+	font-size: 8pt; 
+	color: #006699;
+	background-color: #FFFFFF;
+	font-weight: bold;
+	padding: 4px;
+	border: 1px solid #006699;
+}
+
+a.genLinkReverse:hover {
+	padding: 4px;
+	color: #FFFFFF;
+	background-color: #009763;
+	text-decoration: none;
+	border: 1px dotted #FFFFFF;
+}
+
+.txtmodel {
+	width: 300px;
+	font-family: Tahoma, Verdana; 
+	font-size: 8pt; 
+}
+
+.buttons {
+	border: black 1px solid; 
+	font-size: 11px; 
+	background: #ffffff; 
+	cursor: hand; 
+	color: black; 
+	font-family: tahoma,sans-serif; 
+	font-weight: bold;
+	height: 19px; 
+	text-decoration: none;
+}
+
+.text {
+	border: black 1px solid; 
+	font-size: 11px; 
+	background: #ffffff; 
+	cursor: hand; 
+	color: black; 
+	font-family: tahoma,sans-serif; 
+	font-weight: bold;
+	height: 19px; 
+	text-decoration: none;
+}
+
+select {
+	font-family: Tahoma, Verdana; 
+	font-size: 8pt; 
+}
+
+a.genLinkMenu {
+	width: 150px;
+	display: block;
+	text-decoration: none; 
+  font-family: Tahoma, Verdana; 
+	font-size: 8pt; 
+	color: #006699;
+	background-color: #FFFFFF;
+	font-weight: bold;
+	padding: 4px;
+	border: 1px solid #006699;
+}
+
+a.genLinkMenu:hover {
+	padding: 4px;
+	color: #FFFFFF;
+	background-color: #009763;
+	text-decoration: none;
+	border: 1px dotted #FFFFFF;
+}
+
+a.txtsimplelink {
+	text-decoration: none; 
+  font-family: Tahoma, Verdana; 
+	font-size: 8pt; 
+	color: #006699;
+	font-weight: bold;
+	padding: 4px;
+	border: 1px dotted #006699;
+}
+
+a.txtsimplelink:hover {
+	padding: 4px;
+	color: #FFFFFF;
+	background-color: #006699;
+	text-decoration: none;
+	border: 1px dotted #FFFFFF;
+}
